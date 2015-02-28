@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "ESE",
   "description": "EcmaScript Easy",
   "version": "0.1",
@@ -15,4 +16,12 @@
     }
   },
 
+=======
+  "name": "ECE",
+  "version": "0.1",
+  "authors": {
+    'author': "Mario Alberto Contreras Vazquez",
+    'author': "Mikhail Cruz Andrade"
+  }
+>>>>>>> efaf55eb6e6f1e2635d204f8b344af75c95eefb9
 }
