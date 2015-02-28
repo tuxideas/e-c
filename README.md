@@ -1,7 +1,7 @@
-# ECE
+# ECE - EcmaScript Easy
 
-EcmaScript Easy
-
-Classes and Functions for easy Use
+### Classes and Functions EcmaScript for easy use
 
 Made with love by
+  @macvirgo14
+  @jailandrade
