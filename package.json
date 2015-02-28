@@ -1,0 +1,18 @@
+{
+  "name": "ESE",
+  "description": "EcmaScript Easy",
+  "version": "0.1",
+  "contributors": {
+    "person": {
+      "name": "Mikhail Cruz Andrade",
+      "email": "jailandrade@gmail.com",
+      "url": "http://jailandrade.me"
+    },
+    "person": {
+      "name": "Mario Alberto Contreras Vazquez",
+      "email": "macvirgo14@gmail.com",
+      "url": "http://jailandrade.me"
+    }
+  },
+
+}
