@@ -1,3 +1,7 @@
-# ES6 Easy
+# ECE
 
-The next version for EcmaScript is already here and in Tuxideas we care about it
+EcmaScript Easy
+
+Classes and Functions for easy Use
+
+Made with love by
